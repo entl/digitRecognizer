@@ -1,0 +1,11 @@
+Questions:
+1. What imports do I need?
+2. How does the program work?
+3. How to combine neural network and pygame or website?
+4. How to pass image in real time?
+Tasks:
+- Create a neural network which can differ digits
+- Implement real-time recognition in pygame or webbrowser (show in real time percentage for each number)
+Analyze:
+1. Tensorflow, numpy - neural network, 
+2-4. There will be a field 28x28, person can draw anything and numpy array which stores data 0-255 updates and passes data to network
